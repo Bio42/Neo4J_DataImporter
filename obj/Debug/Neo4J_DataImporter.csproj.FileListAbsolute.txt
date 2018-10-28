@@ -1,0 +1,10 @@
+C:\Users\Björn Fernkorn\source\repos\Neo4J_DataImporter\Neo4J_DataImporter\bin\Debug\Neo4J_DataImporter.exe.config
+C:\Users\Björn Fernkorn\source\repos\Neo4J_DataImporter\Neo4J_DataImporter\bin\Debug\Neo4J_DataImporter.exe
+C:\Users\Björn Fernkorn\source\repos\Neo4J_DataImporter\Neo4J_DataImporter\bin\Debug\Neo4J_DataImporter.pdb
+C:\Users\Björn Fernkorn\source\repos\Neo4J_DataImporter\Neo4J_DataImporter\bin\Debug\Neo4j.Driver.dll
+C:\Users\Björn Fernkorn\source\repos\Neo4J_DataImporter\Neo4J_DataImporter\bin\Debug\Neo4j.Driver.xml
+C:\Users\Björn Fernkorn\source\repos\Neo4J_DataImporter\Neo4J_DataImporter\obj\Debug\Neo4J_DataImporter.csprojAssemblyReference.cache
+C:\Users\Björn Fernkorn\source\repos\Neo4J_DataImporter\Neo4J_DataImporter\obj\Debug\Neo4J_DataImporter.csproj.CoreCompileInputs.cache
+C:\Users\Björn Fernkorn\source\repos\Neo4J_DataImporter\Neo4J_DataImporter\obj\Debug\Neo4J_DataImporter.csproj.CopyComplete
+C:\Users\Björn Fernkorn\source\repos\Neo4J_DataImporter\Neo4J_DataImporter\obj\Debug\Neo4J_DataImporter.exe
+C:\Users\Björn Fernkorn\source\repos\Neo4J_DataImporter\Neo4J_DataImporter\obj\Debug\Neo4J_DataImporter.pdb
