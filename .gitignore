@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+*.cache
+*.lock
+*.ide-shm
+*.ide
+*.ide-wal
+*.cache
+*.cache
+obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache

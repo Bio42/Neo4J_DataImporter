@@ -11,7 +11,8 @@ namespace Neo4J_DataImporter
         public static string password = "password";
         public static string uri = @"bolt://localhost:7687";
 
-        private static readonly string CsvPath = @"C:\Users\Björn Fernkorn\Documents\Neo4j\K58_MFCS.csv";
+        // private static readonly string CsvPath = @"C:\Users\Björn Fernkorn\Documents\Neo4j\K58_MFCS.csv";
+        private static readonly string CsvPathUNI = @"C:\Users\Björn\Documents\Projekt Graph DB\DATA\K58_MFCS.csv";
 
         static void Main(string[] args)
         {
